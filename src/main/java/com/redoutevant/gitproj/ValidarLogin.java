@@ -12,6 +12,15 @@ package com.redoutevant.gitproj;
 public class ValidarLogin {
     
     private String username;
+    private int active;
+
+    public int getActive() {
+        return active;
+    }
+
+    public void setActive(int active) {
+        this.active = active;
+    }
 
     public String getUsername() {
         return username;
