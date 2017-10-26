@@ -7,7 +7,7 @@ package com.redoutevant.gitproj;
 
 /**
  *
- * @author dev
+ * @author Tiago Pinto
  */
 public class ValidarLogin {
     
