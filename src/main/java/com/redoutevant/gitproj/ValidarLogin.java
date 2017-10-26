@@ -18,8 +18,8 @@ public class ValidarLogin {
         return active;
     }
 
-    public void setActive(int oActive) {
-        this.active = oActive;
+    public void setActive(int act) {
+        this.active = act;
     }
 
     public String getUsername() {
